@@ -17,6 +17,7 @@ exclude:
 - Gemfile.lock
 - .jekyll-cache
 - .gitignore
+- CNAME
 
 # 2. Installed Gems
 plugins:
