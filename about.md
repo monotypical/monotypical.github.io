@@ -7,7 +7,7 @@ Hello, I'm a terminally online software developer from Bath in the UK, and this 
 I currently work for [Made Tech](https://www.madetech.com/), a public sector technology company, where I modernise legacy applications. Previously, I have worked for the internet security company [Netcraft](https://www.netcraft.com/) on anti-phishing services. I graduated from [Imperial College London](https://www.imperial.ac.uk/computing/) with a Master of Engineering degree in Computing in 2019.
 
 You can find me elsewhere at:
-- @monotypical on Twitter
+- [@monotypical](https://twitter.com/monotypical) on Twitter
 - [@aliceelee3](https://www.instagram.com/aliceelee3/) on Instagram
 - [alice-lee-cs](https://www.linkedin.com/in/alice-lee-cs/) on LinkedIn
 - [alice@alicelee.uk](mailto:alice@alicelee.uk) on email
