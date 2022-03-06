@@ -18,6 +18,7 @@ exclude:
 - .jekyll-cache
 - .gitignore
 - CNAME
+- scripts/
 
 # 2. Installed Gems
 plugins:
